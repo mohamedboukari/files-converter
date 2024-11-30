@@ -1,7 +1,11 @@
 {
   "name": "files-converter",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "A universal file conversion tool that supports a wide range of file formats. Convert documents, images, videos, audio, and more with ease.",
+  "author": "Mohamed Boukari",
+  "license": "MIT",
+  "repository": "https://github.com/mohamedboukari/files-converter",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
